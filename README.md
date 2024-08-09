@@ -1,4 +1,7 @@
-## Hi there 👋
+## Avery Cronin
+I am a computer scientist at Warner Robins AFB. 
+I am also reworking my website!
+
 
 <!--
 **averycronin/averycronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
